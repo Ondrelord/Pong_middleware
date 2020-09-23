@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{bff2f0c3-34ca-4d38-b67b-6f20c7eb1652}">
+		<property name="assetPath">
+			<value>423269__vincent-sermonne__punk-rock-groove.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>18.454535147392289</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{83859146-21fe-44a2-9df5-881252d24700}</destination>
+		</relationship>
+	</object>
+</objects>

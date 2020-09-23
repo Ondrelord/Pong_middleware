@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{0fb2ccf9-4c15-4062-98d5-efe54cdfd546}">
+		<property name="assetPath">
+			<value>75313__oymaldonado__bluesy-rock-guitar1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>8.6262131519274377</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{83859146-21fe-44a2-9df5-881252d24700}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{23ab894a-8458-4ff7-9caf-bc39794d7a4a}">
+		<property name="assetPath">
+			<value>hits/212457__unfa__hits-1-metal.flac</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>24.625937499999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{83859146-21fe-44a2-9df5-881252d24700}</destination>
+		</relationship>
+	</object>
+</objects>
